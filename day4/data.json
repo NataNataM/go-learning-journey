@@ -1,0 +1,22 @@
+[
+ {
+  "ID": 1,
+  "Title": "Выучить основы Go",
+  "Done": true
+ },
+ {
+  "ID": 2,
+  "Title": "Написать To-Do List",
+  "Done": false
+ },
+ {
+  "ID": 3,
+  "Title": "Разобраться с JSON в Go",
+  "Done": false
+ },
+ {
+  "ID": 4,
+  "Title": "Учеба",
+  "Done": false
+ }
+]
